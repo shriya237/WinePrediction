@@ -1,4 +1,4 @@
-# <a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a> Wine Quality Prediction ML model in Spark over AWS
+# Dockerized Wine Quality Prediction ML model in Spark over AWS
 
 The model has been trained using Random Forest Classifier on multiple EC2 instances using AWS EMR Spark. The model trained is saved in local/S3 bucket and loaded back in action for prediction on any preferred environment.
 
